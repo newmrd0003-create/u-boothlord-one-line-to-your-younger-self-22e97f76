@@ -6,9 +6,9 @@
 
 ## Entry
 
-> Keep the mixtape she made you — in twenty years you'll still hum the third song at red lights, and you'll finally understand why she chose it.
+> Keep the mixtape she made you — twenty years on you'll still hum the third song at every red light, and only then will you finally hear why she chose it.
 
-142 characters, one line.
+153 characters, one line.
 
 ## Why this angle
 
