@@ -1,4 +1,4 @@
-"""One Line to Your Younger Self — make.fun entry program (v1).
+"""One Line to Your Younger Self — make.fun entry program (v2).
 
 Writes exactly one file, entry.txt, into MAKEFUN_OUTPUT_DIR
 (fallback /output). Writes nothing anywhere else.
@@ -8,8 +8,8 @@ import os
 import sys
 
 ENTRY = (
-    "Keep the mixtape she made you \u2014 in twenty years you'll still hum "
-    "the third song at red lights, and you'll finally understand why she chose it."
+    "Keep the mixtape she made you \u2014 twenty years on you'll still hum "
+    "the third song at every red light, and only then will you finally hear why she chose it."
 )
 
 
